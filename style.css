@@ -1,0 +1,72 @@
+body {
+	background-color: #eee;
+	margin: 0px;
+}
+
+a { 
+	color: #fff;
+	font-style: normal;
+}
+
+#titleblock {
+	color: white;
+	background-color: #222222;
+	padding-top: .5%;
+	text-align: center;
+	width: 66%;
+	margin: auto;
+	border-radius: 2px;
+	margin-top: 1%;
+}
+
+#lightgreybar {
+	margin-top: 1%;
+	background-color: #aaa;
+	border-radius: 0 0 2px 2px;
+}
+
+#footer {
+	background-color: #222;
+	text-align: center;
+	color: white;
+}
+
+#container {
+
+	text-align: center;
+}
+
+#twit {
+	background-color: red;
+}
+
+#fb {
+background-color: green;
+}
+
+#tumb {
+	background-color: blue;
+}
+
+.soc {
+	width: 75px;
+	height: 75px;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.lowerbar {
+	display: inline-block;
+}
+
+.card {
+	width: 40%;
+	height: 25%;
+	background-color: red;
+	display: inline-block;
+	
+	padding: .5%;
+	margin: 1%;
+	
+	border-radius: 2px;
+}
