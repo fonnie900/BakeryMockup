@@ -72,6 +72,8 @@ a { color: #fff; font-style: normal; }
 
 .lowerbar {
 	display: inline-block;
+	width: 49.5%;
+	text-align: center;
 }
 
 .soc {
